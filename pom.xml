@@ -14,8 +14,8 @@
 		</snapshotRepository>
 	</distributionManagement>
 	<scm>
-	<connection>scm:git:git@github.com/Zohairtoo/maven-example02.git</connection>
-	<developerConnection>scm:git:git@github.com/Zohairtoo/maven-example02.git</developerConnection>
+	<connection>scm:git:git@github-ld:Zohairtoo/maven-example02.git</connection>
+	<developerConnection>scm:git:git@github-ld:Zohairtoo/maven-example02.git</developerConnection>
 	  <tag>maven-example-0.0.2</tag>
   </scm>
 	<dependencies>
